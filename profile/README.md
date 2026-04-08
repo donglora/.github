@@ -60,9 +60,9 @@ Some concrete examples:
 |------|-----------|
 | [firmware](https://github.com/donglora/firmware) | Embedded firmware for LoRa boards (Rust) |
 | [client-rs](https://github.com/donglora/client-rs) | Rust client library — `donglora-client` on crates.io |
-| [client-py](https://github.com/donglora/client-py) | Python client library — `donglora-python` on PyPI |
+| [client-py](https://github.com/donglora/client-py) | Python client library — `donglora` on PyPI |
 | [mux-rs](https://github.com/donglora/mux-rs) | USB multiplexer daemon (Rust) |
-| [mux-py](https://github.com/donglora/mux-py) | USB multiplexer daemon (Python) |
+| [mux-py](https://github.com/donglora/mux-py) | USB multiplexer daemon — `donglora-mux` on PyPI |
 | [bridge](https://github.com/donglora/bridge) | P2P LoRa bridge — relays packets across the internet via encrypted gossip (Rust) |
 | [examples](https://github.com/donglora/examples) | Ready-to-run scripts — receive, transmit, ping-pong, bridge (Python) |
 | [ai-bot](https://github.com/donglora/ai-bot) | MeshCore AI chatbot — default mesh name "Orac" (Python) |

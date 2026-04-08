@@ -22,7 +22,7 @@ common tasks consume. No shared board code — each board is self-contained.
 
 ## Client Libraries
 
-Client libraries exist in [Python](clients/python/) and [Rust](clients/rust/).
+Client libraries exist in [Python](https://github.com/donglora/client-py) and [Rust](https://github.com/donglora/client-rs).
 To add a library in another language:
 
 1. Create a directory with the language's standard project layout
